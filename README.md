@@ -7,6 +7,4 @@ Magnetic resonance imaging (MRI) is the imaging technique used to diagnosing bra
 
 The data set consists of two different folders that are Yes or No. Both the folders contain different MRI images of the patients. Yes folder has patients that have brain tumors whereas No folder has MRI images of patients with no brain tumor. There are a total of 155 images of positive patients of brain tumor and 98 images of other patients having no brain tumor. All the images are of 240X240 pixels. 
 
-# Brain Tumor Classification Model
 
-First, we need to enable the GPU. To do so go to ‘Runtime’ in Google Colab and then click on ‘Change runtime type’ and select GPU. Once the runtime is changed we will move forward importing the required libraries and dataset. We will be directly importing the data set from kaggle. Use the below code to do the same. 
